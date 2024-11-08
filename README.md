@@ -41,6 +41,7 @@ This repository contains various Jupyter Notebooks that cover both theoretical e
 
 ### 2. **Data Preprocessing**
 - **[Data_Preprocess_MLDL.ipynb](Data_Preprocess_MLDL.ipynb)**: Covers data preprocessing techniques such as handling missing values, encoding categorical variables, scaling features, and splitting the data into training and testing sets. Essential for preparing data before applying ML/DL models.
+- **[Image_Preprocessing.ipynb](Image_Preprocessing.ipynb)**: Covers all the image preprocessing techniques. It is essential to prepare data before applying Deep Learning models.
 
 ### 3. **Supervised Learning Algorithms**
 - **[Decision_Tree.ipynb](Decision_Tree.ipynb)**: An implementation of Decision Tree classifier for classification tasks, with explanations of overfitting, pruning, and model tuning.
