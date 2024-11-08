@@ -1,30 +1,65 @@
-![](https://i.postimg.cc/90JDspdb/cover.jpg)
-<h1 align="center">Hi 👋, I'm Rashik</h1>
-<h3 align="center">I am motivated to consistently advance my knowledge and skills in the industry because I am a computer science student who is passionate about research and development. I want to evolve into a well-rounded researcher and developer and use my knowledge to significantly influence the technology sector.</h3>
+# Advanced Machine Learning Bootcamp by Rashik Shahriar
 
-<img align = "right" alt = "Coding" width = "400" src = "https://camo.githubusercontent.com/61491d59e71fec5c794945fed916a4a682b6c0404fc31f30b08a0d919c558404/68747470733a2f2f696d616765732e73717561726573706163652d63646e2e636f6d2f636f6e74656e742f76312f3537363966633430316236333162616231616464623261622f313534313538303631313632342d5445363451474b524a4738535741495553374e532f6b6531375a77644742546f6464493870446d34386b506f73776c7a6a53564d4d2d53784f703743563539425a772d7a505067646e346a557756634a45315a7657515578776b6d794578676c4e714770304976544a5a616d574c49327a76595748384b332d735f3479737a63703272795449304871544f6161556f68724938504936465879386339505774426c7141566c555335697a7064634958445a71445976707252715a32395077306f2f636f64696e672d667265616b2e676966">
+Welcome to the **Advanced Machine Learning Bootcamp** repository! This repository contains code examples and resources used during the bootcamp, which covers key machine learning and deep learning techniques. The bootcamp focuses on both theoretical foundations and practical implementation of machine learning algorithms.
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=schr0diinger&label=Profile%20views&color=0e75b6&style=flat" alt="schr0diinger" /> </p>
+## Overview
 
-- 👨‍💻 All of my projects are available at [https://sites.google.com/view/rashik](https://sites.google.com/view/rashik)
+In this boot camp, you will learn and implement various machine learning and deep learning algorithms, including:
 
-- 📫 How to reach me **rashikshahriarashgmail.com**
+- Data preprocessing and manipulation using **Pandas**
+- Supervised Learning: Regression and Classification models
+- Unsupervised Learning
+- Decision Trees and Random Forests
+- Naive Bayes, Logistic Regression, and Support Vector Machines (SVM)
+- Image Classification and Augmentation
+- Neural Networks and Deep Learning models
 
-- 📄 Know about my experiences [https://sites.google.com/view/schr0diinger](https://sites.google.com/view/schr0diinger)
+The code in this repository is intended for students and professionals who want to enhance their knowledge of advanced machine-learning and deep learning topics and develop hands-on skills by working with real datasets.
 
-- ⚡ Fun fact **Which came first :p the chicken or the egg?**
+## Table of Contents
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://www.linkedin.com/in/rashik-shahriar-akash/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/rashik-shahriar-akash/" height="30" width="40" /></a>
-<a href="https://fb.com/https://www.facebook.com/hashtagrashik" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="https://www.facebook.com/hashtagrashik" height="30" width="40" /></a>
-</p>
+1. [Prerequisites](#prerequisites)
+2. [Installation](#installation)
+3. [Course Content](#course-content)
+4. [Usage](#usage)
+5. [Contributing](#contributing)
+6. [License](#license)
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://developer.android.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original-wordmark.svg" alt="android" width="40" height="40"/> </a> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://dart.dev" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/dartlang/dartlang-icon.svg" alt="dart" width="40" height="40"/> </a> <a href="https://www.djangoproject.com/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/django.svg" alt="django" width="40" height="40"/> </a> <a href="https://flutter.dev" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/flutterio/flutterio-icon.svg" alt="flutter" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.adobe.com/in/products/illustrator.html" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/adobe_illustrator/adobe_illustrator-icon.svg" alt="illustrator" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://opencv.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/opencv/opencv-icon.svg" alt="opencv" width="40" height="40"/> </a> <a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg" alt="pandas" width="40" height="40"/> </a> <a href="https://www.photoshop.com/en" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" alt="photoshop" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://scikit-learn.org/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="scikit_learn" width="40" height="40"/> </a> <a href="https://seaborn.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://seaborn.pydata.org/_images/logo-mark-lightbg.svg" alt="seaborn" width="40" height="40"/> </a> <a href="https://www.tensorflow.org" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="tensorflow" width="40" height="40"/> </a> <a href="https://www.adobe.com/products/xd.html" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/adobe-xd.svg" alt="xd" width="40" height="40"/> </a> </p>
+## Prerequisites
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=schr0diinger&show_icons=true&locale=en&layout=compact" alt="schr0diinger" /></p>
+Before you begin, you should have a solid foundation in:
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=schr0diinger&show_icons=true&locale=en" alt="schr0diinger" /></p>
+- Basic Python programming
+- Familiarity with libraries like **NumPy**, **Pandas**, **Scikit-learn**, and **Matplotlib**
+- Experience with Jupyter Notebooks or Google Colab for running Python code
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=schr0diinger&" alt="schr0diinger" /></p>
+
+## Course Content
+
+This repository contains various Jupyter Notebooks that cover both theoretical explanations and practical implementations of key machine learning algorithms and techniques. Here are the major files included:
+
+### 1. **Data Preprocessing**
+- **[Data_Preprocess_MLDL.ipynb](Data_Preprocess_MLDL.ipynb)**: Covers data preprocessing techniques such as handling missing values, encoding categorical variables, scaling features, and splitting the data into training and testing sets. Essential for preparing data before applying ML/DL models.
+
+### 2. **Supervised Learning Algorithms**
+- **[Decision_Tree.ipynb](Decision_Tree.ipynb)**: An implementation of Decision Tree classifier for classification tasks, with explanations of overfitting, pruning, and model tuning.
+- **[Gaussian_Naive_Bayes.ipynb](Gaussian_Naive_Bayes.ipynb)**: Introduction to Naive Bayes classification using the Gaussian distribution assumption, and how to apply it for classification problems.
+- **[RandomForest.ipynb](RandomForest.ipynb)**: Demonstrates the Random Forest algorithm, an ensemble method that improves classification performance by aggregating the predictions of multiple decision trees.
+
+### 3. **Regression Techniques**
+- **[Linear_Regression_with_Python.ipynb](Linear_Regression_with_Python.ipynb)**: A practical guide to implementing and understanding Linear Regression, including evaluating model performance using metrics like R-squared, Mean Squared Error (MSE), etc.
+- **[Logistic_Regression_ML_DL_Bootcamp.ipynb](Logistic_Regression_ML_DL_Bootcamp.ipynb)**: Explains Logistic Regression, a method for binary classification, and introduces concepts like sigmoid functions, loss functions, and optimization.
+
+### 4. **Image Classification and Augmentation**
+- **[ImageClassification.ipynb](ImageClassification.ipynb)**: A deep dive into using convolutional neural networks (CNNs) for image classification tasks. It covers model building, training, and evaluation on image datasets.
+- **[Image_Augmentation_.ipynb](Image_Augmentation_.ipynb)**: This notebook focuses on image data augmentation techniques to improve model performance and generalization on image classification tasks.
+
+### 5. **Miscellaneous**
+- **[Pandas.ipynb](Pandas.ipynb)**: A useful guide to working with **Pandas** for data manipulation and analysis. It covers dataframes, series, indexing, and aggregation techniques, which are crucial for preprocessing and analyzing data.
+
+
+### 1. Clone the Repository
+
+```bash
+git clone https://github.com/RashikShahriar/Advance-Machine-Learning-BootCamp-by-Rashik.git
+cd Advance-Machine-Learning-BootCamp-by-Rashik
