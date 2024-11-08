@@ -21,9 +21,7 @@ The code in this repository is intended for students and professionals who want 
 1. [Prerequisites](#prerequisites)
 2. [Installation](#installation)
 3. [Course Content](#course-content)
-4. [Usage](#usage)
-5. [Contributing](#contributing)
-6. [License](#license)
+4. [Clone the Repository](#Clone-the-Repository)
 
 ## Prerequisites
 
