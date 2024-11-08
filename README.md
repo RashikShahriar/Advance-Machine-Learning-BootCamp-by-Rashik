@@ -38,27 +38,28 @@ Before you begin, you should have a solid foundation in:
 
 This repository contains various Jupyter Notebooks that cover both theoretical explanations and practical implementations of key machine learning algorithms and techniques. Here are the major files included:
 
-### 1. **Data Preprocessing**
+### 1. **Data Manipulation with Pandas**
+- **[Pandas.ipynb](Pandas.ipynb)**: A useful guide to working with **Pandas** for data manipulation and analysis. It covers dataframes, series, indexing, and aggregation techniques, which are crucial for preprocessing and analyzing data.
+
+### 2. **Data Preprocessing**
 - **[Data_Preprocess_MLDL.ipynb](Data_Preprocess_MLDL.ipynb)**: Covers data preprocessing techniques such as handling missing values, encoding categorical variables, scaling features, and splitting the data into training and testing sets. Essential for preparing data before applying ML/DL models.
 
-### 2. **Supervised Learning Algorithms**
+### 3. **Supervised Learning Algorithms**
 - **[Decision_Tree.ipynb](Decision_Tree.ipynb)**: An implementation of Decision Tree classifier for classification tasks, with explanations of overfitting, pruning, and model tuning.
 - **[Gaussian_Naive_Bayes.ipynb](Gaussian_Naive_Bayes.ipynb)**: Introduction to Naive Bayes classification using the Gaussian distribution assumption, and how to apply it for classification problems.
 - **[RandomForest.ipynb](RandomForest.ipynb)**: Demonstrates the Random Forest algorithm, an ensemble method that improves classification performance by aggregating the predictions of multiple decision trees.
 
-### 3. **Regression Techniques**
+### 4. **Regression Techniques**
 - **[Linear_Regression_with_Python.ipynb](Linear_Regression_with_Python.ipynb)**: A practical guide to implementing and understanding Linear Regression, including evaluating model performance using metrics like R-squared, Mean Squared Error (MSE), etc.
 - **[Logistic_Regression_ML_DL_Bootcamp.ipynb](Logistic_Regression_ML_DL_Bootcamp.ipynb)**: Explains Logistic Regression, a method for binary classification, and introduces concepts like sigmoid functions, loss functions, and optimization.
 
-### 4. **Image Classification and Augmentation**
+### 5. **Image Classification and Augmentation**
 - **[ImageClassification.ipynb](ImageClassification.ipynb)**: A deep dive into using convolutional neural networks (CNNs) for image classification tasks. It covers model building, training, and evaluation on image datasets.
 - **[Image_Augmentation_.ipynb](Image_Augmentation_.ipynb)**: This notebook focuses on image data augmentation techniques to improve model performance and generalization on image classification tasks.
 
-### 5. **Miscellaneous**
-- **[Pandas.ipynb](Pandas.ipynb)**: A useful guide to working with **Pandas** for data manipulation and analysis. It covers dataframes, series, indexing, and aggregation techniques, which are crucial for preprocessing and analyzing data.
 
 
-### 1. Clone the Repository
+## Clone the Repository
 
 ```bash
 git clone https://github.com/RashikShahriar/Advance-Machine-Learning-BootCamp-by-Rashik.git
